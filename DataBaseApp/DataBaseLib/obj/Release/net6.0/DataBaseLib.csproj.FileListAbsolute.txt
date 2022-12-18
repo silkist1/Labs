@@ -1,0 +1,12 @@
+S:\сист.программированиеМДК\DataBase\DataBaseLib\bin\Release\net6.0\DataBaseLib.deps.json
+S:\сист.программированиеМДК\DataBase\DataBaseLib\bin\Release\net6.0\DataBaseLib.dll
+S:\сист.программированиеМДК\DataBase\DataBaseLib\bin\Release\net6.0\DataBaseLib.pdb
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\DataBaseLib.csproj.AssemblyReference.cache
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\DataBaseLib.GeneratedMSBuildEditorConfig.editorconfig
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\DataBaseLib.AssemblyInfoInputs.cache
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\DataBaseLib.AssemblyInfo.cs
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\DataBaseLib.csproj.CoreCompileInputs.cache
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\DataBaseLib.dll
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\refint\DataBaseLib.dll
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\DataBaseLib.pdb
+S:\сист.программированиеМДК\DataBase\DataBaseLib\obj\Release\net6.0\ref\DataBaseLib.dll
